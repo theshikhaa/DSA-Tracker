@@ -1,3 +1,5 @@
+//link: https://practice.geeksforgeeks.org/problems/sort-a-string/1
+
 import java.util.Scanner;
 class sortString {
     public String sortStringf(String s) {
