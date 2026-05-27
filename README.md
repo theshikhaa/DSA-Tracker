@@ -2,20 +2,6 @@
 
 A collection of Java solutions for Data Structures & Algorithms problems, organized by topic. This repo is a practice tracker — solutions are plain Java files (no build system required) and are grouped in topic folders.
 
-## Repository structure
-- Arrays/: array problems and utilities
-- Binary-Tree/: tree traversals and tree problems
-- BinarySearch/: binary search variants and helpers
-- BitManipulation/: bitwise problems
-- LinkedList/: singly/doubly linked list problems
-- Queue/: queue implementations and problems
-- Recursion/: recursion & backtracking problems
-- SlidingWindow/: sliding window techniques
-- Stacks/: stack problems
-- String/: string algorithms
-
-Note: Each folder contains individual `.java` files for separate problems.
-
 ## Topic summary
 This table shows number of problems per topic and some example filenames. Difficulty is currently `Unspecified`; see the note below to add difficulty tags.
 
