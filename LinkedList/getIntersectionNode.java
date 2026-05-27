@@ -10,7 +10,7 @@
  * }
  */
 public class getIntersectionNode {
-    public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
+    public ListNode getIntersectionNodef(ListNode headA, ListNode headB) {
          if(headA== null || headB == null) return null;
        while(headA!= null){
          ListNode tempB= headB;
